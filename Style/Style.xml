@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<qrdocument>
+  <header>
+    <item>下記のQRコードは全国標準（JAHIS技術文書）の「電お薬手帳」用のＱＲコードです。</item>
+    <item>複数QRコードが記載されている場合は左から読み込んで下さい。</item>
+  </header>
+  <body>
+    <item></item>
+  </body>
+  <footer>
+    <item>ご使用のスマートフォンに専用アプリをダウンロードすれば、QRコ</item>
+    <item>ードを読み取るだけでお薬の情報を簡単に取り込むことができます。</item>
+    <item>http://www.e-okusuritecho.jp</item>
+  </footer>
+</qrdocument>
